@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\ancal\\desktop\\develop\\unreal\\unrealtutorial2\\mytestproject\\source\\mytestproject\\mytestproject.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\ancal\\desktop\\develop\\unreal\\unrealtutorial2\\mytestproject\\intermediate\\build\\win64\\mytestprojecteditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\ancal\\desktop\\develop\\unreal\\unrealtutorial2\\mytestproject\\intermediate\\build\\win64\\unrealeditor\\development\\mytestproject\\definitions.mytestproject.h",
+            "c:\\users\\ancal\\desktop\\develop\\unreal\\unrealtutorial2\\mytestproject\\source\\mytestproject\\mytestproject.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

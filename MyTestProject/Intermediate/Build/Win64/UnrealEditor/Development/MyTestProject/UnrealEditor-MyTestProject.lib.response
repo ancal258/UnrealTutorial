@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyTestProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\MyTestProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\MyTestProject.cpp.obj"
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\MyTestProjectGameModeBase.cpp.obj"
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\MyTestProject.init.gen.cpp.obj"
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\MyTestProjectGameModeBase.gen.cpp.obj"
+"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\Default.rc2.res"
+/OUT:"C:\Users\ancal\Desktop\Develop\Unreal\UnrealTutorial2\MyTestProject\Intermediate\Build\Win64\UnrealEditor\Development\MyTestProject\UnrealEditor-MyTestProject.lib"

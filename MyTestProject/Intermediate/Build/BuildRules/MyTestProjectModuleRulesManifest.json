@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ancal\\Desktop\\Develop\\Unreal\\UnrealTutorial2\\MyTestProject\\Source\\MyTestProject\\MyTestProject.Build.cs",
+		"C:\\Users\\ancal\\Desktop\\Develop\\Unreal\\UnrealTutorial2\\MyTestProject\\Source\\MyTestProject.Target.cs",
+		"C:\\Users\\ancal\\Desktop\\Develop\\Unreal\\UnrealTutorial2\\MyTestProject\\Source\\MyTestProjectEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.1"
+}
